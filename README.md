@@ -1,4 +1,4 @@
-```markdown
+
 <div align="center">
   
 # Hi there, I'm Naveen 👋
@@ -75,4 +75,3 @@ Here are some of my repositories — browse the code and demos:
 <img src="https://komarev.com/ghpvc/?username=naveenkumar2004-98&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views Counter" />
 
 </div>
-```
